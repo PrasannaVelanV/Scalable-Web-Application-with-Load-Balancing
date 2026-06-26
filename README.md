@@ -96,7 +96,7 @@ Scalable-Web-Application-with-Load-Balancing/
 ├── README.md
 ```
 
-> Update the project structure according to your repository.
+
 
 ---
 
